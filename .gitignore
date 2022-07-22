@@ -15,6 +15,59 @@
 *.so
 *.dylib
 *.dll
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+#decrypt
+*.cpp2
+*.cppb
+*.h2
+*.hb
+*.hpp2
+*.hppb
+*.c2
+*.cb
+*.x
+*.zip
+
+#vs 2019
+.vs
+Debug
+x64
+
+#work dirs
+logs
+*.log
 
 # Fortran module files
 *.mod
