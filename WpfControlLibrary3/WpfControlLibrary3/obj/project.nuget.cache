@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6u/XlP1GAS/ajTdVo6UJ2lsQ6X9oYs0ok9m8nUWJ4afVcEQyEDec1FnogB9PM1I/0GYN3erbQjKDva19KNbvdA==",
+  "success": true,
+  "projectFilePath": "E:\\work_codes\\WpfControlLibrary3\\WpfControlLibrary3\\WpfControlLibrary3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lion_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
