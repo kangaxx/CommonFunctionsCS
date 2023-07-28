@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6u/XlP1GAS/ajTdVo6UJ2lsQ6X9oYs0ok9m8nUWJ4afVcEQyEDec1FnogB9PM1I/0GYN3erbQjKDva19KNbvdA==",
+  "dgSpecHash": "7faLKaFtg5znViaKTBtz17cZ3j0BaWOX3hg1zKjnI02n7Pqa6hy0Na3ot52tAHK531heuBITaAwHbIHIAdyHyg==",
   "success": true,
-  "projectFilePath": "E:\\work_codes\\WpfControlLibrary3\\WpfControlLibrary3\\WpfControlLibrary3.csproj",
+  "projectFilePath": "E:\\github\\CommonFunctionsCS\\WpfControlLibrary3\\WpfControlLibrary3\\WpfControlLibrary3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lion_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],

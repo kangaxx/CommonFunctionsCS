@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\work_codes\\WpfControlLibrary3\\WpfControlLibrary3\\WpfControlLibrary3.csproj": {}
+    "E:\\github\\CommonFunctionsCS\\WpfControlLibrary3\\WpfControlLibrary3\\WpfControlLibrary3.csproj": {}
   },
   "projects": {
-    "E:\\work_codes\\WpfControlLibrary3\\WpfControlLibrary3\\WpfControlLibrary3.csproj": {
+    "E:\\github\\CommonFunctionsCS\\WpfControlLibrary3\\WpfControlLibrary3\\WpfControlLibrary3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\work_codes\\WpfControlLibrary3\\WpfControlLibrary3\\WpfControlLibrary3.csproj",
+        "projectUniqueName": "E:\\github\\CommonFunctionsCS\\WpfControlLibrary3\\WpfControlLibrary3\\WpfControlLibrary3.csproj",
         "projectName": "WpfControlLibrary3",
-        "projectPath": "E:\\work_codes\\WpfControlLibrary3\\WpfControlLibrary3\\WpfControlLibrary3.csproj",
+        "projectPath": "E:\\github\\CommonFunctionsCS\\WpfControlLibrary3\\WpfControlLibrary3\\WpfControlLibrary3.csproj",
         "packagesPath": "C:\\Users\\lion_\\.nuget\\packages\\",
-        "outputPath": "E:\\work_codes\\WpfControlLibrary3\\WpfControlLibrary3\\obj\\",
+        "outputPath": "E:\\github\\CommonFunctionsCS\\WpfControlLibrary3\\WpfControlLibrary3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
